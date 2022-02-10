@@ -11,7 +11,7 @@ const compiledCampaign = require('./build/Campaign.json')
 // );
 
 const provider = new HDWalletProvider(
-  'nut material spoil fortune liquid castle amateur horror marine endless outdoor tonight', 
+  '<---- Add Etheruem Secret Word Here--->', 
   'https://rinkeby.infura.io/v3/cd79e0848c6b43a99a84e032155a04bb'
 );
 
